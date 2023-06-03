@@ -13,7 +13,7 @@ body{
 .titulo_lojinha{
     font-family: Arial, sans-serif;
 }
-adasdasd 
+
 .anuncio_article{
     width: 17%;
     text-align: center;
@@ -39,7 +39,7 @@ adasdasd
 }
 
 .preco{
-    display: flex;
+    display: flex;  
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
@@ -50,4 +50,3 @@ adasdasd
     flex-direction: column;
     font-family: Arial, sans-serif;
 }
-

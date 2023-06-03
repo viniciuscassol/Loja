@@ -13,7 +13,7 @@ let anuncio = [
     {
         url_img:"./img/bola_copa.webp",
         nome:"Bola da Copa",
-        titulo_preco:"Preço: a a a a",
+        titulo_preco:"Preço:",
         preco:"R$ 86.30",
         titulo_descricao: "Descrição:",
         descricao:"Bola utilizada na Copa do Mundo, idela para utilizar em campo e colecionar"
@@ -105,5 +105,3 @@ function cria_anuncio(anuncio) {
     article.innerHTML = context;
     selection_element.appendChild(article);
 }
-
-
